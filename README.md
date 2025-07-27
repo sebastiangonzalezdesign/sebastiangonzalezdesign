@@ -1,22 +1,26 @@
-# Hi, I'm Sebastian González 👋  
-**UI Designer | Design Systems | Frontend Curious**  
-_Based in Bogotá, Colombia_
+# 👋 Hi, I'm Sebastian González  
+**UI Designer | Design Systems | Bridging Design & Code**  
+📍 Based in Bogotá, Colombia
 
-I'm a UI/Visual Designer with over 5 years of experience crafting digital products. I specialize in building scalable design systems, designing seamless interfaces, and bringing ideas to life through thoughtful UI, code, and systems thinking.
+I’m a UI/Visual Designer with 5+ years of experience crafting digital products. I focus on building scalable **design systems**, refining **visual design**, and translating ideas into seamless **front-end experiences**.
 
-🔍 Currently exploring how **AI tools like GitHub Copilot** can enhance the way we design and scale interfaces.
+Currently exploring how **emerging tech like AI and GitHub Copilot** can elevate how we build, document, and maintain interface systems.
 
-### 🚀 What I Do
-- UI Design & Visual Craft
-- Design Systems & Tokens
-- Frontend implementation (React, SCSS)
-- Bridging design ↔ development teams
+---
 
-### 🛠 Tools & Technologies
-`Figma` `React` `SCSS` `TypeScript`  
-`GitHub Copilot` `Design Tokens` `Vite` `Storybook`
+### 💡 What I Do
+- Design scalable UI systems for real-world apps
+- Code thoughtful front-end experiences (React + SCSS)
+- Bridge the gap between design & development
 
-### 📬 Let's connect
-- Portfolio → [sebastiangonzalez.design](https://sebastiangonzalez.design)
-- LinkedIn → [linkedin.com/in/sebastiangonzalezdesign](https://linkedin.com/in/sebastiangonzalezdesign)
-- Email → info@sebastiangonzalez.design
+---
+
+### ⚙️ Tools I Work With
+`Figma` · `React` · `TypeScript` · `SCSS` · `Vite` · `Design Tokens` · `GitHub Copilot`
+
+---
+
+### 🔗 Let’s Connect
+🌐 [sebastiangonzalez.design](https://sebastiangonzalez.design)  
+💼 [LinkedIn](https://linkedin.com/in/sebastiangonzalezdesign)  
+📬 info@sebastiangonzalez.design
