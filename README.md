@@ -18,10 +18,11 @@ I code thoughtful interfaces (React + SCSS) and explore how AI tools like GitHub
 ---
 
 ### 🔗 Connect
-🌐 [sebastiangonzalez.design] <a href="https://sebastiangonzalez.design" target="_blank">sebastiangonzalez.design</a>
+🌐 [sebastiangonzalez.design](https://sebastiangonzalez.design)
 🔗 [LinkedIn](https://linkedin.com/in/sebastiangonzalezdesign)  
 ✉️ info@sebastiangonzalez.design
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sebastiangonzalezdesign&show_icons=true&theme=default)
+<br>
 ![Design Systems](https://img.shields.io/badge/Design%20Systems-%F0%9F%94%A5-informational)
 ![React](https://img.shields.io/badge/React-%2300D8FF?style=flat&logo=react&logoColor=white)
