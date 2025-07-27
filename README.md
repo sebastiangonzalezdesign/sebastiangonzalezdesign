@@ -24,7 +24,7 @@ I code thoughtful interfaces (React + SCSS) and explore how AI tools like GitHub
 <br>
 ✉️ info@sebastiangonzalez.design
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sebastiangonzalezdesign&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sebastiangonzalezdesign&show_icons=true&theme=dark)
 <br>
-![Design Systems](https://img.shields.io/badge/Design%20Systems-%F0%9F%94%A5-informational)
-![React](https://img.shields.io/badge/React-%2300D8FF?style=flat&logo=react&logoColor=white)
+![Design Systems](https://img.shields.io/badge/Design%20Systems-%F0%9F%94%A5-darkgray?style=flat-square&labelColor=202020&color=555555)
+![React](https://img.shields.io/badge/React-%2300D8FF?style=flat-square&logo=react&logoColor=white&labelColor=202020)
