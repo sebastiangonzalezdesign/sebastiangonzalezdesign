@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Sebastian González 👋  
+**UI Designer | Design Systems | Frontend Curious**  
+_Based in Bogotá, Colombia_
 
-<!--
-**sebastiangonzalezdesign/sebastiangonzalezdesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a UI/Visual Designer with over 5 years of experience crafting digital products. I specialize in building scalable design systems, designing seamless interfaces, and bringing ideas to life through thoughtful UI, code, and systems thinking.
 
-Here are some ideas to get you started:
+🔍 Currently exploring how **AI tools like GitHub Copilot** can enhance the way we design and scale interfaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I Do
+- UI Design & Visual Craft
+- Design Systems & Tokens
+- Frontend implementation (React, SCSS)
+- Bridging design ↔ development teams
+
+### 🛠 Tools & Technologies
+`Figma` `React` `SCSS` `TypeScript`  
+`GitHub Copilot` `Design Tokens` `Vite` `Storybook`
+
+### 📬 Let's connect
+- Portfolio → [sebastiangonzalez.design](https://sebastiangonzalez.design)
+- LinkedIn → [linkedin.com/in/sebastiangonzalezdesign](https://linkedin.com/in/sebastiangonzalezdesign)
+- Email → info@sebastiangonzalez.design
