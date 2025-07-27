@@ -21,3 +21,5 @@ I code thoughtful interfaces (React + SCSS) and explore how AI tools like GitHub
 🌐 [sebastiangonzalez.design](https://sebastiangonzalez.design)  
 🔗 [LinkedIn](https://linkedin.com/in/sebastiangonzalezdesign)  
 ✉️ info@sebastiangonzalez.design
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sebastiangonzalezdesign&show_icons=true&theme=default)
