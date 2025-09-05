@@ -3,8 +3,7 @@
 **Design Technologist / UI Engineer** bridging **visual design, scalable systems & front-end code**  
 📍 Based in Bogotá, Colombia  
 
-With **5+ years of experience**, I specialize in building **design systems, interactive UI kits, and scalable front-end architectures**.  
-I code thoughtful interfaces in **React + SCSS + TypeScript** and explore how **AI tools (GitHub Copilot, design automation)** streamline workflows.  
+With roots in UI and visual design, I evolved into building design systems and coding scalable front-end architectures. This blend of design expertise and technical execution positions me to thrive in design technologist and UX engineering roles. 
 
 ---
 
