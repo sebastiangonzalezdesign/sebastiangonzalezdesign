@@ -10,7 +10,7 @@ I code thoughtful interfaces in **React + SCSS + TypeScript** and explore how **
 
 ## 🚀 Featured Work
 - **[Motion UI Kit](https://github.com/sebastiangonzalezdesign/ui-motion-kit)** – React + Framer Motion component library for scalable micro-interactions in design systems.  
-- **[Sebgraph Portfolio](https://sebgraph.com)** – Personal portfolio built with React + SCSS, theme switching, and a design-token architecture.  
+- **[Sebgraph Portfolio](https://github.com/sebastiangonzalezdesign/Sebgraph)** – Personal portfolio built with React + SCSS, theme switching, and a design-token architecture.  
 
 👉 More projects on my [GitHub Repositories](https://github.com/sebastiangonzalezdesign?tab=repositories)  
 
