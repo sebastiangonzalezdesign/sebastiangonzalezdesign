@@ -3,7 +3,7 @@
 **Design Technologist / UI Engineer** bridging **visual design, scalable systems & front-end code**  
 📍 Based in Bogotá, Colombia  
 
-With roots in UI and visual design, I evolved into building design systems and coding scalable front-end architectures. This blend of design expertise and technical execution positions me to thrive in design technologist and UX engineering roles. 
+With roots in UI and visual design, I’ve grown into building design systems and coding scalable front-end architectures. This path allows me to combine creativity with engineering—delivering intuitive, accessible, and future-ready digital experiences. 
 
 ---
 
